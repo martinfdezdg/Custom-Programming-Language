@@ -1,4 +1,4 @@
-# Instrucciones de compilación y ejecución
+# Proyecto: toodots
 ## Procedimiento de compilación
 > Abrir terminal en el directorio /toodots
 
