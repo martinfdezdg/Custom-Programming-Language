@@ -17,7 +17,7 @@ Compilación proyecto completo:
 sh compile/compila.sh
 ```
 
-## Pruebas automáticas
+## Procedimiento de ejecución
 > Abrir terminal en el directorio /toodots
 
 Pruebas automáticas de muestreo
